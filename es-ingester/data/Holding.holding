@@ -1,0 +1,6 @@
+ClientId=,First Name=,Last Name=,Scheme=,Investment Theme=,Entry Date=date,Invested Amount=double, Return Amount=double,Sector=,Project Locations=geo_point,Total Investment=double,Pending Investment=double,Status=
+ubs100,Prakash,Patidar,Education for everyone,Child Education,11-11-2015,1000000,100000,Education,"-8.783195,34.508523",50000000,1000000,Open
+ubs100,Prakash,Patidar,Food Security,Food Security,1-1-2014,5000000,1000000,Food,"20.593684,78.962880",9000000,0,Close
+ubs100,Prakash,Patidar,Clean Water ,Water,1-1-2016,5000000,1000000,Water,"23.684994,90.356331",7000000,1000000,Open
+ubs101,Ashis,Behera,Roshni,Electricity,01-01-2014,7000000,100000,Electricity,"-8.783195,34.508523",6000000,2000000,Open
+ubs101,Ashis,Behera,Education for everyone,Child Education,1-1-2015,5000000,500000,Education,"-8.783195,34.508523",10000000,5000000,Open
